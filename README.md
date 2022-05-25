@@ -1,0 +1,1 @@
+# MindX_Fullstack_Web
